@@ -194,12 +194,6 @@ Potential applications include:
 # Author
 
 **Sarvan Kumar**
-Mechanical Engineering
-IIITDM Kancheepuram
-
-BS in Data Science and Applications
-IIT Madras
-
 ---
 
 # License
