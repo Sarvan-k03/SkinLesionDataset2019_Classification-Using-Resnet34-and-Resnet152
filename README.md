@@ -91,7 +91,7 @@ Clone the repository
 
 ```
 git clone https://github.com/Sarvan-k03/SkinLesionDataset2019_Classification-Using-Resnet34-and-Resnet152.git
-cd skin-lesion-classification
+cd SkinLesionDataset2019_Classification-Using-Resnet34-and-Resnet152
 ```
 
 Install dependencies
